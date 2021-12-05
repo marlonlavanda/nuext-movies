@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # movieapp
 
 ## Build Setup
@@ -67,3 +68,7 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+=======
+# nuext-movies
+Simple Movie App built with nuxtjs
+>>>>>>> b6de86be5138c44429943a79cd88ad4c5b22610f
